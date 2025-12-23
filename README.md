@@ -1,6 +1,6 @@
 # background_on_back
 
-A new Flutter plugin project.
+Flutter plugin to handle backgound the app on pressing back button instead of quitting app.
 
 ## Getting Started
 
